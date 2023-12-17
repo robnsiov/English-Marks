@@ -17,6 +17,7 @@ const config: Config = {
       "580px": { max: "580px" },
       "1362px": { max: "1362px" },
     },
+
     extend: {
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
