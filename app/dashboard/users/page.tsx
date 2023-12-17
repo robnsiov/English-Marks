@@ -1,9 +1,9 @@
-import Dashboard from "@/components/pages/dashboard";
+import Users from "@/components/pages/users";
 
 const Page = () => {
   return (
     <>
-      <Dashboard />
+      <Users />
     </>
   );
 };
